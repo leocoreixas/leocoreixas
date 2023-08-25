@@ -38,9 +38,6 @@ https://github.com/LeonardoCoreixas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocoreixas&theme=tokyonight">
 </p>
 
-![Private Contributions](https://img.shields.io/badge/Private%20Contributions-Enabled-success)
-
-
 ## 🎯 Let's Keep in Touch and Follow me 
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leozincoreixas)
