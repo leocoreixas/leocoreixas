@@ -9,13 +9,18 @@
 
 ## Bio - Hi, Coders! 👋
 
-Leonardo Coreixas is a fullstack developer and currently is searching for a 
-internship .   **[GitHub](https://github.com/leocoreixas)**. 
+Leonardo Coreixas is a mid level fullstack developer.   **[GitHub](https://github.com/leocoreixas)**. 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Leo is at his third year of university. He also has dabbled with diferent stacks, such as C, Java and some web development. Currently, Leo lives in Niterói, Brazil. He is a very curious and focused person, and loves a challenge. 
-Outside of dev, Leo likes work out, his cats and gaming.
+I am Leonardo Coreixas Biasotto Mirapalhete, studying Computer Science at Universidade Federal Fluminense (UFF) - 2023. Currently working as a fullstack developer at Prover and freelancing as a backend developer at Agência Novi, as well as working on the Cartesi Technology and Blockchain Prospecting Study project at Fundação Euclides da Cunha.
+
+Solid knowledge in Git, CI/CD, .Net, Angular, NodeJs, MySql, and SQL Server, among other database management systems. Familiarity with agile methodologies (Scrum). Experience with Azure DevOps, Jira, and AWS services such as S3 and DynamoDB.
+
+Visit my GitHub profiles:
+
+https://github.com/leocoreixas
+https://github.com/LeonardoCoreixas
 
 ## 💻 Technologies & Tools
 
