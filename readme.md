@@ -37,9 +37,6 @@ https://github.com/LeonardoCoreixas
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocoreixas&theme=tokyonight">
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leocoreixas">
-</p>
 
 ## 🎯 Let's Keep in Touch and Follow me 
 
