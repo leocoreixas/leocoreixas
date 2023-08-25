@@ -29,9 +29,33 @@ https://github.com/LeonardoCoreixas
 
 ## ⭐ GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=leocoreixas&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leocoreixas&hide=css,java,html&theme=tokyonight">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leocoreixas&show_icons=true&theme=tokyonight&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocoreixas&hide=css,java,html&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leocoreixas&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocoreixas&theme=tokyonight&langs_count=8">
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=leocoreixas&theme=react-dark">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight">
+</p>
+
+<p align="center">
+  ![GitHub followers](https://img.shields.io/github/followers/leocoreixas?style=social)
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leocoreixas">
 </p>
 
 ## 🎯 Let's Keep in Touch and Follow me 
