@@ -1,12 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/leocoreixas?style=social)
 
 
-<p align='center'>
-<a href="https://twitter.com/leozincoreixas"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/leonardo-coreixas-biasotto-mirapalhete-1a5809203/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-
-</p>
-
 ## Bio - Hi, Coders! 👋
 
 Leonardo Coreixas is a mid level fullstack developer.   **[GitHub](https://github.com/leocoreixas)**. 
