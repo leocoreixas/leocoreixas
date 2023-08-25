@@ -39,19 +39,7 @@ https://github.com/LeonardoCoreixas
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocoreixas&theme=tokyonight&langs_count=8">
-</p>
-
-<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=leocoreixas&theme=react-dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/leocoreixas?style=social)
 </p>
 
 <p align="center">
