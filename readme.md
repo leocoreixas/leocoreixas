@@ -38,7 +38,6 @@ https://github.com/LeonardoCoreixas
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=leocoreixas&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leocoreixas&hide=css,java,html&theme=tokyonight">
-  ![GitHub commits](https://img.shields.io/github/last-commit/leocoreixas/leocoreixas?style=flat-square)
 </p>
 
 ## 🎯 Let's Keep in Touch and Follow me 
